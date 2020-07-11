@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Med
+//  Medicine
 //
 //  Created by Apple on 12/7/20.
 //  Copyright © 2020 Nihonda. All rights reserved.
